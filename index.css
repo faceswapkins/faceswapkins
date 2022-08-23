@@ -75,6 +75,7 @@ nav ul li {
 	font-weight: bold;
 	transition: all 0.3s linear;
 	font-family: futura;
+	white-space: nowrap;
 }
 ul li a {
 	color: #FFFFFF;
