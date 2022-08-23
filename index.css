@@ -19,8 +19,8 @@ body {
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	height: 1000px;
-	background-color: #FFFFFF;
+	min-height: 100%;
+	background-color: #000000;
 }
 /* Navigation */
 header {
