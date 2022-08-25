@@ -135,12 +135,15 @@ ul li:hover a {
 
 
 
+a {
+	text-decoration: none;
+	color: #9873AC;
+}
 
 #logo {
 	color: #ffffff;
 	text-decoration: none;
 }
-
 
 @media (max-width: 1120px){
 }
