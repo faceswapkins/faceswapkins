@@ -43,7 +43,7 @@ header {
 	width: 10%;
 	float: left;
 	margin-top: 15px;
-	margin-left: 3%;
+	margin-left: 3vw;
 	letter-spacing: 3px;
 	font-family: futura;
 	font-size: 14px;
@@ -69,7 +69,7 @@ nav ul li {
 	color: #000000;
 	font-size: 14px;
 	text-align: left;
-	margin-right: 30px;
+	margin-right: 3vw;
 	letter-spacing: 2px;
 	font-weight: bold;
 	transition: all 0.3s linear;
