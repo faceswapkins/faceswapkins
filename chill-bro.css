@@ -133,6 +133,13 @@ ul li:hover a {
 	text-decoration: none;
 }
 
+a {
+	text-decoration: none;
+	color: #9873AC;
+}
+
+
+
 
 
 @media (max-width: 1120px){
